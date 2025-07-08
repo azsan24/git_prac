@@ -1,1 +1,1 @@
-Hello, this it Git Practise
+Hello, this is just a Git Practise
